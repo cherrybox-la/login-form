@@ -70,18 +70,11 @@ img {
 
 /* Header form */
 
-.header-form .logo {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
 
-.header-form .logo img {
-    width: 52px;
-}
 
 .header-form h1 {
-    font-family: 'Lato', sans-serif;
+    margin: 0.5 2rem 2rem 2rem 2rem;
+    text-align: center;
 }
 
 
@@ -151,6 +144,10 @@ img {
 
 
 /* Contact US */
+.copy a {
+    color: #E31C5F;
+}
+    
 
 .contact {
     margin: 3rem;
